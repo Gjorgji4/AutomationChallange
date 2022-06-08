@@ -1,0 +1,78 @@
+Azure DevOps Engineer, Belgrade, RS
+Medior Python Developers, Belgrade, RS
+Medior QA Automation Engineers, Belgrade, RS
+Medior React.js Developers, Belgrade, RS
+Node.js Developers, Belgrade, RS
+Product Designer, Belgrade, RS
+Senior Python Developers, Belgrade, RS
+Senior QA Automation Engineers, Belgrade, RS
+Senior React.js Developers, Belgrade, RS
+Service Delivery Manager, Belgrade, RS
+Software Engineers (React.js, Node.js) - Interns, Belgrade, RS
+Solution Architect, Belgrade, RS
+Data Engineers, Bosnia and Herzegovina
+General Application, Bosnia and Herzegovina
+Medior Python Developers, Bosnia and Herzegovina
+Mid/Senior DevOps Engineers, Bosnia and Herzegovina
+Mid/Senior React Developers, Bosnia and Herzegovina
+Mid/Senior Software Developers, Bosnia and Herzegovina
+Node.js Developers, Bosnia and Herzegovina
+QA Automation Engineers, Bosnia and Herzegovina
+Senior Python Developers, Bosnia and Herzegovina
+Service Delivery Manager, Bosnia and Herzegovina
+Smart Contracts / Solidity Developer, Bosnia and Herzegovina
+Solution Architect, Bosnia and Herzegovina
+iOS Developers, Bosnia and Herzegovina
+Medior React.js Developer, Brazil
+Senior .NET/Azure Developer, Brazil
+Senior Talent Acquisition Specialist, Brazil
+Software Architect .NET/Azure, Brazil
+Engineering Manager, Dominican Republic
+Medior Python Developer, Dominican Republic
+Mid/Senior Solidity Developer (Smart Contracts), Dominican Republic
+Senior Node.js/React Developer, Dominican Republic
+Senior React.js Frontend Developer, Dominican Republic
+Software Development Project Manager, Dominican Republic
+Senior Node.js Developer, Egypt
+DevOps Engineers, Niš, RS
+Head of Software Engineering, Niš, RS
+Interaction Designers (UI/UX), Niš, RS
+Java Developers, Niš, RS
+Mobile Developers, Niš, RS
+Node.js Developers, Niš, RS
+Product Designers, Niš, RS
+Python Developers, Niš, RS
+QA Engineer, Niš, RS
+React.js Developers, Niš, RS
+Service Delivery Manager, Niš, RS
+Shift Up from .NET to Python, Niš, RS
+Software Developers, Niš, RS
+Solution Architect, Niš, RS
+Talent Acquisition Specialist, Niš, RS
+DevOps Engineers, Novi Sad, RS
+DevOps Engineers - Interns, Novi Sad, RS
+Event/Office Management Internship, Novi Sad, RS
+Full-Stack Engineers, Novi Sad, RS
+Machine Learning Engineers - Interns, Novi Sad, RS
+Node.js Engineers, Novi Sad, RS
+Python Engineers, Novi Sad, RS
+QA Automation Engineers, Novi Sad, RS
+React.js Engineers, Novi Sad, RS
+Service Delivery Managers, Novi Sad, RS
+Solution Architects, Novi Sad, RS
+System Administrators - Interns, Novi Sad, RS
+UX/UI Designers, Novi Sad, RS
+UX/UI Designers - Interns, Novi Sad, RS
+DevOps Engineers, Skopje, MK
+Mid/Senior React.js Developers, Skopje, MK
+Node.js Developers, Skopje, MK
+Python Developers, Skopje, MK
+QA Automation Engineers, Skopje, MK
+Service Delivery Manager, Skopje, MK
+Software Developers, Skopje, MK
+Solution Architect, Skopje, MK
+UX/UI Designers, Skopje, MK
+Mid/Senior Android Developer, Turkey
+DevOps Engineer, Worldwide
+Senior Python Developer, Worldwide
+Senior QA Automation Engineer, Worldwide
