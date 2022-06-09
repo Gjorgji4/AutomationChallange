@@ -12,5 +12,5 @@ to solve that please download proper driver for the platform and manually add in
 src/main/java/Drivers
 or contact me directly 
 
-Update: to enabble UI mode for selenium, in ChromeDriverOption comment the 31 line
+Update: to enabble UI mode for selenium, in ChromeDriverOption class comment the 31 line
 ( chromeOptions.addArguments("headless"); ) method: public static ChromeOptions chromeOptions()
